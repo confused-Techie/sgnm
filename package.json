@@ -1,0 +1,16 @@
+{
+  "name": "sgnm",
+  "version": "1.0.0",
+  "main": "./bin/sgnm.js",
+  "description": "Simplogram, the Laziest JavaScript toolchain manager.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sgnm": "./bin/sgnm.js"
+  },
+  "preferGlobal": true,
+  "keywords": [],
+  "author": "confused-Techie",
+  "license": "MIT"
+}
